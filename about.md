@@ -10,7 +10,7 @@ I am a PhD Student in the Research School of Computer Science, at the [Australia
 I am passionate about taming unreliable computer clusters by designing disaster-ready distributed systems.
 I started my PhD in 02/2014, and I expect to submit my thesis by 09/2018.
 
-My thesis title is **'Practical User-Level Fault Tolerance with the Async-Finish Synchronization Model'**, where 
+My thesis title is **'Resilience in High-Level Parallel Programming Languages'**, where 
 I address issues related to performance and productivity of resilient runtime systems.
 In particular, I work on enhancing the resilience support of the [X10 language](http://x10-lang.org/) in collaboration with the X10 team at IBM T. J. Watson Research center.
 
