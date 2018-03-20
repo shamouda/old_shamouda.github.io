@@ -15,3 +15,5 @@ I address issues related to performance and productivity of resilient runtime sy
 In particular, I work on enhancing the resilience support of the [X10 language](http://x10-lang.org/) in collaboration with the X10 team at IBM T. J. Watson Research center.
 
 Between 2006 and 2014, I was a teaching assistant in the Faculty of Computers and Information, at [Cairo University](http://cu.edu.eg/Home). I obtained my masters degree in 2010 and my bachelor degree in 2006, both from Cairo University.
+
+Here is my [CV](/SaraHamoudaCV.pdf)
