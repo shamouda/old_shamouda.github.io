@@ -14,8 +14,8 @@ My thesis title is **'Resilience in High-Level Parallel Programming Languages'**
 I address issues related to performance and productivity of resilient runtime systems.
 In particular, I work on enhancing the resilience support of the [X10 language](http://x10-lang.org/) in collaboration with the X10 team at IBM T. J. Watson Research center.
 
-My PhD advisors are [Josh Milthorpe](http://www.milthorpe.org/), [Steve Blackburn](http://users.cecs.anu.edu.au/~steveb/), and [Peter Strazdins](http://users.cecs.anu.edu.au/~peter/)
+My PhD advisors are [Josh Milthorpe](http://www.milthorpe.org/), [Steve Blackburn](http://users.cecs.anu.edu.au/~steveb/), and [Peter Strazdins](http://users.cecs.anu.edu.au/~peter/).
 
-Between 2006 and 2014, I was a teaching assistant in the Faculty of Computers and Information, at [Cairo University](http://cu.edu.eg/Home). I obtained my masters degree in 2010 and my bachelor degree in 2006, both from Cairo University.
+Between 2007 and 2014, I was a teaching assistant in the Faculty of Computers and Information, at [Cairo University](http://cu.edu.eg/Home). I obtained my masters degree in 2010 and my bachelor degree in 2006, both from Cairo University.
 
 Find more about me in my [CV](/SaraHamoudaCV.pdf)
