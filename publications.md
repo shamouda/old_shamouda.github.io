@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 - In progress:
-	* (Under review) D. Grove, S. S. Hamouda, B. Herta, A. Iyengar, K. Kawachiya, J. Milthorpe, V. Saraswat, A. Shinnar, M. Takeuchi, O. Tardieu, [Failure Recovery in Resilient X10](http://domino.research.ibm.com/library/cyberdig.nsf/papers/F6FD6AF7798BA365852581780055018E/$File/rc25660.pdf), TOPLAS Journal.
+	* D. Grove, S. S. Hamouda, B. Herta, A. Iyengar, K. Kawachiya, J. Milthorpe, V. Saraswat, A. Shinnar, M. Takeuchi, O. Tardieu, [Failure Recovery in Resilient X10](http://domino.research.ibm.com/library/cyberdig.nsf/papers/F6FD6AF7798BA365852581780055018E/$File/rc25660.pdf), TOPLAS Journal, Submitted.
 	* S. S. Hamouda and J. Milthorpe, [Resilient Optimistic Termination Detection for the Async-Finish Model](papers/OptFinishTechReport.pdf), Technical Report.
 
 - Published:
