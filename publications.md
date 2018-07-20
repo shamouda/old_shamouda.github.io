@@ -5,7 +5,6 @@ permalink: /publications/
 ---
 - In progress:
 	* D. Grove, S. S. Hamouda, B. Herta, A. Iyengar, K. Kawachiya, J. Milthorpe, V. Saraswat, A. Shinnar, M. Takeuchi, O. Tardieu, [Failure Recovery in Resilient X10](http://domino.research.ibm.com/library/cyberdig.nsf/papers/F6FD6AF7798BA365852581780055018E/$File/rc25660.pdf), TOPLAS Journal, Submitted.
-	* S. S. Hamouda and J. Milthorpe, [Resilient Optimistic Termination Detection for the Async-Finish Model](papers/OptFinishTechReport.pdf), Submitted to [DISC'18](http://www.disc-conference.org/wp/disc2018/) on 12 May 2018.
 
 - Published:
 	* S. S. Hamouda, B. Herta, J. Milthorpe, D. Grove, and O. Tardieu, [Resilient X10 over MPI User Level Failure Mitigation, X10 workshop](https://dl.acm.org/citation.cfm?id=2931030), PLDI, 2016.
