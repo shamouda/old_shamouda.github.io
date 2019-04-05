@@ -6,13 +6,13 @@ permalink: /about/
 
 <img style="float: left;" src="/assets/img/sara.jpg" width="195.6px" height="288" hspace="8">
 
-I am a PhD Student in the Research School of Computer Science, at the [Australian National University](http://www.anu.edu.au/).
-I am passionate about taming unreliable computer clusters by designing disaster-ready distributed systems.
+I am a post-doctoral researcher at INRIA, Paris. 
+I work with [Marc Shapiro](https://pages.lip6.fr/Marc.Shapiro/) on the design of high-level programming models for distributed replication-based systems. 
 
-I started my PhD in 02/2014, and I expect to submit my thesis by 08/2018.
-My thesis title is **'Resilience in High-Level Parallel Programming Languages'**, where 
-I address issues related to performance and productivity of resilient runtime systems.
-In particular, I work on enhancing the resilience support of the [X10 language](http://x10-lang.org/) in collaboration with the X10 team at IBM T. J. Watson Research center.
+I pursued my PhD studies in the Research School of Computer Science, at the [Australian National University](http://www.anu.edu.au/).
+My PhD thesis title is **'Resilience in High-Level Parallel Programming Languages'**, where 
+I addressed issues related to performance and productivity of resilient runtime systems.
+In particular, I worked on enhancing the resilience support of the [X10 language](http://x10-lang.org/) in collaboration with the X10 team at IBM T. J. Watson Research center.
 
 My PhD advisors are [Josh Milthorpe](http://www.milthorpe.org/), [Steve Blackburn](http://users.cecs.anu.edu.au/~steveb/), and [Peter Strazdins](http://users.cecs.anu.edu.au/~peter/).
 
