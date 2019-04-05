@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sara S. Hamouda
-email: sara.salem@anu.edu.au
+email: sara.hamouda@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
   PhD Student at the Australian National University. 
 baseurl: "" # the subpath of your site, e.g. /blog

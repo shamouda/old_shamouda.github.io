@@ -6,7 +6,7 @@ permalink: /about/
 
 <img style="float: left;" src="/assets/img/sara.jpg" width="195.6px" height="288" hspace="8">
 
-I am a post-doctoral researcher at INRIA, Paris. 
+I am a post-doctoral researcher at [INRIA](https://www.inria.fr/en/), Paris. 
 I work with [Marc Shapiro](https://pages.lip6.fr/Marc.Shapiro/) on the design of high-level programming models for distributed replication-based systems. 
 
 I pursued my PhD studies in the Research School of Computer Science, at the [Australian National University](http://www.anu.edu.au/).
