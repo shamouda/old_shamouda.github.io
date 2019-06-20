@@ -9,8 +9,8 @@ permalink: /about/
 I am a post-doctoral researcher at [INRIA](https://www.inria.fr/en/), Paris. 
 I work with [Marc Shapiro](https://pages.lip6.fr/Marc.Shapiro/) on the design of high-level programming models for distributed replication-based systems. 
 
-I completed my PhD studies at the [Australian National University](http://www.anu.edu.au/)
-under the primary supervision of [Dr. Josh Milthorpe] (http://www.milthorpe.org/).
+I completed my PhD studies at the [Australian National University](http://www.anu.edu.au/) in 2019
+under the primary supervision of [Dr. Josh Milthorpe](http://www.milthorpe.org/).
 I am also grateful to my thesis advisors [Prof. Steve Blackburn](http://users.cecs.anu.edu.au/~steveb/), and [Assoc/Prof. Peter Strazdins](http://users.cecs.anu.edu.au/~peter/).
 My PhD thesis title is **'Resilience in High-Level Parallel Programming Languages'**, where 
 I addressed issues related to performance and productivity of resilient runtime systems.
