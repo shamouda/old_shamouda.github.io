@@ -7,7 +7,7 @@ permalink: /about/
 <img style="float: left;" src="/assets/img/sara.jpg" width="195.6px" height="288" hspace="8">
 
 I am a post-doctoral researcher at [INRIA](https://www.inria.fr/en/), Paris. 
-I work with [Marc Shapiro](https://pages.lip6.fr/Marc.Shapiro/) on the design of high-level programming models for distributed replication-based systems. 
+I work with [Marc Shapiro](https://pages.lip6.fr/Marc.Shapiro/) on the design of high-level programming models for geo-replicated databases. 
 
 I completed my PhD studies at the [Australian National University](http://www.anu.edu.au/) in 2019
 under the primary supervision of [Dr. Josh Milthorpe](http://www.milthorpe.org/).
@@ -15,7 +15,5 @@ I am also grateful to my thesis advisors [Prof. Steve Blackburn](http://users.ce
 My PhD thesis title is **'Resilience in High-Level Parallel Programming Languages'**, where 
 I addressed issues related to performance and productivity of resilient runtime systems.
 In particular, I worked on enhancing the resilience support of the [X10 language](http://x10-lang.org/) in collaboration with the X10 team at IBM T. J. Watson Research center. 
-
-Between 2007 and 2014, I was a teaching assistant in the Faculty of Computers and Information, at [Cairo University](http://cu.edu.eg/Home). I obtained my masters degree in 2010 and my bachelor degree in 2006, both from Cairo University.
 
 Find more about me in my [CV](/SaraHamoudaCV.pdf)
